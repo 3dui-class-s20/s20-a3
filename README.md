@@ -14,7 +14,9 @@ User ID:
 ## Rubric
 
 Graded out of 20.
-
+- line creation (tool rendered near tip, correct end points, ribbon creation, color and texturing).  6
+- stroke creation (tool rendered near tip, correct end points, ribbon creation, optimization, color and texturing).  10
+- eraser implementation (tool rendered near tip, remove strokes touched). 4
 
 ## Objective
 
@@ -34,7 +36,6 @@ The program should be have as follows.  For each of the 3 modes, a visual "tool 
 2. In Line mode, a similar tool appears at the tip of the controller.  A button press starts a line, and a single straight stroke is create when the button is released.  The line is a ribbon as well, as with the stroke (the ribbon may be twisted, depending on the orientation of the controller at the start and the end.)
 3. In Erase mode, the tool is a small sphere.  Any stroke or line touched by the sphere is completely removed.
 4. The color and texture of the ribbons are defined by the selected texture and color.
-
 
 ## Stroke Details
 

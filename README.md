@@ -2,7 +2,7 @@
 
 This is an INDIVIDUAL assignment.
  
-## Due: Monday March 13th, 11:59am
+## Due: Friday March 13th, 11:59am
 
 NOTE: due at 11:59AM, not 11:59PM.  This is due at noon, not midnight.  Since people are possibly traveling for the break, I do want to have the assignment due at midnight. 
 
